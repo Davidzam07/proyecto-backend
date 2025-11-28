@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Optional: Si quieres mantener los datos vacíos pero no los datos de prueba
+# src/data/*.json
+# Descomenta la línea anterior si NO quieres subir los archivos JSON de datos
+
